@@ -21,7 +21,9 @@ Let's just patch it up a little
 
 ____________________________________________________________________________________________________________________________
 After al the wasted time, I did manage to get the letters lined up in order. But there are still some 
-tabs I think,  in the motto of this composition. 
+tabs I think,  in the motto of this composition. Seems to only be a problem for this webbased texteditor.
+I kinda want to see if I could write a program that could render it for me. Hey, did you know there are API's out there 
+that can display 3D ascii an ansi graphics? They actually work with opengl and hardware rendering use the videocard its frambuffer, etc. Anyway I find that somehow fascinating. 
 
 
 ~~~text
