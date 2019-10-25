@@ -5,5 +5,5 @@ KISSKISSKISS             KISS        KISSKISSKISS      KISSKISSKISS
 KISS      KISS           KISS                  KISS              KISS 
 KISS        KISS         KISS     KISSKISS    KISS  KISSKISS    KISS 
 KISS          KISS  KISSKISSKISS    KISSKISSKISS      KISSKISSKISS 
-=====================================================================
-Keep It Simple, Swashbuckler
+---------------------------------------------------------------------
+   Keep It Simple, Swashbuckler
