@@ -1,7 +1,7 @@
 # kiss-kiss
 Kissception, Kissolution, The Kissening, Once Upon a Kiss in the West, One Kiss too Far, Kiss/Kiss: Bang/Bang, Kiss Club, Requiem for a Kiss, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Kiss, One Flew over a KissKi'ss Nest, Citizen Kiss
 
-
+____________________________________________________________________________________________________________________________
 First Version; copy pasted from a web post where it was formatted for a non-monospace font.
 The result of the [ First Version](https://github.com/hnsz/kiss-kiss/blob/6cebfeefddfd92a3a1384d66239978c6750499bd/kiss.txt/) 
 is underwhelming.. but this _was_ an unequivocally simple way to do it. 
@@ -17,3 +17,24 @@ Keep It Simple, Swashbuckler
 ~~~
 
 Let's just patch it up a little
+
+
+____________________________________________________________________________________________________________________________
+After al the wasted time, I did manage to get the letters lined up in order. But there are still some 
+tabs I think,  in the motto of this composition. 
+
+
+~~~text
+KISS        KISS    KISSKISSKISS   KISSKISSKISS      KISSKISSKISS    
+KISS      KISS           KISS     KISS       KISS   KISS       KISS
+KISSKISSKISS             KISS      KISSKISS          KISSKISS        
+KISSKISSKISS             KISS        KISSKISSKISS      KISSKISSKISS  
+KISS      KISS           KISS                  KISS              KISS 
+KISS        KISS         KISS     KISSKISS    KISS  KISSKISS    KISS 
+KISS          KISS  KISSKISSKISS    KISSKISSKISS      KISSKISSKISS 
+        	  //	  	 	\\
+		Keep It Simple, Swashbuckler
+		  \\		        //
+~~~
+
+_______________________________________________________________________________________________________________________________
