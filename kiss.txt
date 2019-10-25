@@ -3,10 +3,8 @@ KISS      KISS           KISS     KISS       KISS   KISS       KISS
 KISSKISSKISS             KISS      KISSKISS          KISSKISS        
 KISSKISSKISS             KISS        KISSKISSKISS      KISSKISSKISS  
 KISS      KISS           KISS                  KISS              KISS 
-KISS        KISS      ---KISS-----KISSKISS    KISS  KISSKISS    KISS 
+KISS        KISS         KISS     KISSKISS    KISS  KISSKISS    KISS 
 KISS          KISS  KISSKISSKISS    KISSKISSKISS      KISSKISSKISS 
-        	  //	  /	 \	\\
+        	  //	  	 	\\
 		Keep It Simple, Swashbuckler
-		  \\	\	   /     //
-		   \\    \        /     //
-		    \\____\______/____//
+		  \\		        //
